@@ -1,4 +1,4 @@
-# cut2code-zadanie-rekrutacyjne
+# 
 
 Użyte technologie:
 -wordpress(CPT, bloki gutenberg)
